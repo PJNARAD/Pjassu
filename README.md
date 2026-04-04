@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Jassu! 👋
 
-<!--
-**PJassu/Pjassu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a budding developer currently setting up my very first GitHub repository.
 
-Here are some ideas to get you started:
+### 🛠 Tools & Interests
+* 💻 Learning the basics of Git and GitHub.
+* 🚀 Interested in Web Development.
+* 📚 Currently following tutorials to build my first project.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 GitHub Stats
+- 🔭 I’m currently working on ... getting comfortable with the terminal!
+- 🌱 I’m currently learning ... how to manage code versions.
+- 💬 Ask me about ... my journey into tech.
+
+---
+*“The best time to plant a tree was 20 years ago. The second best time is now.”*

@@ -1,4 +1,4 @@
-# Hi there, I'm Jassu! 👋
+# Hi there, I'm NARAD! 👋
 
 I'm a budding developer currently setting up my very first GitHub repository.
 
